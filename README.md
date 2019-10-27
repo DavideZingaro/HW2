@@ -33,5 +33,4 @@ The repository consists of the following files:
           
           2. What does this algorithm do? Is it optimal?
         ```  
-        
-        ```
+ 
