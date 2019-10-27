@@ -4,5 +4,6 @@ The purpose of the project was to perform an Exploratory Data Analysis, answer t
 
 The repository consists of the following files:
   1. __```main.ipynb:```__
+  > A Jupyter notebook which provides the solutions to all research questions.
   
   2.
