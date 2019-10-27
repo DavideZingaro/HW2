@@ -5,5 +5,15 @@ The purpose of the project was to perform an Exploratory Data Analysis, answer t
 The repository consists of the following files:
   1. __```main.ipynb:```__
       > A Jupyter notebook which provides the solutions to all research questions.
+      ```                                        
+      Exploratory Data Analysis
+      1. [RQ1] Who wants to be a Champion?
+      2. [RQ2] Is there a home-field advantage?
+      3. [RQ3] Which teams have the youngest coaches?
+      4. [RQ4] Find the top 10 players with the highest ratio between completed passes and attempted passes. 
+      5. [RQ5] Does being a tall player mean winning more air duels?
+      6. [RQ6] Free your mind!     
+      
+      ```
   
   2.
