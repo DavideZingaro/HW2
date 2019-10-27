@@ -6,8 +6,7 @@ The repository consists of the following files:
   1. __```main.ipynb:```__
       > A Jupyter notebook which provides the solutions to all research questions.
       ```                                        
-      Exploratory Data Analysis
-      
+      Exploratory Data Analysis      
           1. [RQ1] Who wants to be a Champion?
           
           2. [RQ2] Is there a home-field advantage?
@@ -18,7 +17,12 @@ The repository consists of the following files:
           
           5. [RQ5] Does being a tall player mean winning more air duels?
           
-          6. [RQ6] Free your mind!     
+          6. [RQ6] Free your mind!
+          
+      Core Research Questions
+          1. [CRQ1] What are the time slots of the match with more goals? 
+          
+          2. [CRQ2] Visualize movements and passes on the pitch!
       
       ```
   
