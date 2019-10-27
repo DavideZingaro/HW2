@@ -26,7 +26,7 @@ The repository consists of the following files:
       
       ```
   
-  2. __```theory.ipynb:```___
+  2. __```theory.ipynb:```__
       > A Theoretical Question about the splitSwap algorithm running time.
         ```
             1. How much running time does it take to execute splitSwap(a, 0, n)?
