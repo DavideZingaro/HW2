@@ -3,6 +3,6 @@
 The purpose of the project was to perform an Exploratory Data Analysis, answer to below mentioned Core Research Questions on a data collected about [Soccer](https://figshare.com/collections/Soccer_match_event_dataset/4415000) (Coaches, Players, Events, Teams and Matches), and solve a Theoretical exercise on computation.
 
 The repository consists of the following files:
-  1. main.ipynb
+  1. '''main.ipynb:'''
   
   2.
