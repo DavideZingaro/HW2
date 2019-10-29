@@ -35,5 +35,5 @@ The repository consists of the following files:
         ```  
         
   3. __```SerieAbonus.ipynb:```__
-      > A bonus Jupiter notebook which provides the same Exploratory Data Analysis on the Serie A league.
+      > A bonus Jupyter notebook which provides the same Exploratory Data Analysis on the Serie A league.
    
