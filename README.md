@@ -33,4 +33,5 @@ The repository consists of the following files:
           
             2. What does this algorithm do? Is it optimal?
         ```  
- 
+  3.__```SerieAbonus.ipynb:```___
+      > A bonus Jupiter notebook which provides the same Exploratory Data Analysis on the Serie A league.
