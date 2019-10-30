@@ -43,7 +43,8 @@ The repository consists of the following files:
   4. __```Bundesligabonus.ipynb:```__
       > A bonus Jupyter notebook which provides the same Exploratory Data Analysis on the Bundesliga league.
       
-  
+  5. __```LaLigabonus.ipynb:```__
+      > A bonus Jupyter notebook which provides the same Exploratory Data Analysis on the La Liga league.
   
   
   
